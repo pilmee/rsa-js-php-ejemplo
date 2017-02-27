@@ -77,7 +77,6 @@ var RSA = {
 			var cod = expMod(intval(codigo), llave, modulo);
 			$texto += this.chr(cod);
 		}
-
 		return Base64.decode($texto);
 	}
 }

@@ -10,7 +10,6 @@
 ?>
 <!DOCTYPE html>
 <html>
-
 <head>
 	<title>Prueba RSA (@pilmee)</title>
 	<!-- Latest compiled and minified CSS -->

@@ -119,8 +119,6 @@ class RSA {
 		return $rj;
 	}
 
-
-
 	public function cifrar($texto, $e, $m) {
 		$texto = base64_encode(trim($texto));
 		$codigos = array();

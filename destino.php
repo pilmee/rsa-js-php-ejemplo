@@ -5,7 +5,6 @@
 
 	try {
 		$rsa = new RSA();
-
 		$keys = $_SESSION['RSA_KEYS'];
 		$llavePrivada = $keys['privada'];
 		$modulo = $keys['modulo'];
